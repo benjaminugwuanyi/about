@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: #66BFBF;
+    
+}
+p{
+    color: #40514E;
+    line-height: 2;
+}
+hr{
+    border: rgb(214, 231, 231) 6px dotted;
+    margin: 100px auto;
+    border-bottom:none ;
+    width: 4%;
+}
+.introduction{
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+    text-align: center;
+}
+.heading{
+    font-size: 5.6rem;
+    margin: 50px auto 35px auto;
+}
+.sub-heading{
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    top: 350px;
+}
+.section-two{
+    margin: 100px 0;
+}
+.profile{
+    text-align: center;
+}
+.profile-img{
+    width: 180px;
+    height: 180px;
+    margin-bottom: 10px;
+}
+.profile h3{
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+.profile p{
+    width: 30%;
+    margin: auto;
+}
+.skills{
+ text-align: center;   
+}
+.skills h2{
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+.skill-row{
+    width: 50%;
+    margin: 150px auto 150px auto;
+    text-align: left;
+}
+.skill-row h5{
+    font-size: 1.17em;
+}
+.computer {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  
+  .chilli {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+  .get-in-touch{
+    text-align: center;
+  }
+  .get-in-touch h2{
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+  }
+  .get-in-touch p{
+      width: 40%;
+      margin: auto;
+      font-size: 1.4rem;
+      margin-top: 10px;
+      margin-bottom: 15px;
+  }
+  .btn{
+    background-color: #66BFBF;  
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 4px;
+    color: azure;
+    text-decoration: none;
+    
+  }
+  .btn:hover{
+      background-color: cadetblue;
+  }
+  .footer{
+      color: azure;
+      background-color: cadetblue;
+      text-align: center;
+  }
+  .footer a{
+      text-decoration: none;
+      color: #EAF6F6;
+      margin: 10px 20px;
+    
+  }
+  .copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 
+  }
